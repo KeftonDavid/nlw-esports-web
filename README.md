@@ -4,7 +4,7 @@ Durante a Next Level Week disponibilizada pela Rocketseat, participei da trilha 
 - **App**: Tela principal, responsável por mostrar ao usuário uma lista de jogos recebida do sqlite
 - **CreateAdModal**: Modal que aparece sobre a tela principal, o qual pode ser utilizado para a criação de anúncios para os jogos que foram listados no componente "App"
 
-## As principais tecnologias utilizadas no backend foram:
+## As principais tecnologias utilizadas na web foram:
 - React
 - Typescript
 - Tailwind CSS
